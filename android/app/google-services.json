@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631346394790",
+    "firebase_url": "https://ginotv-ac3e4.firebaseio.com",
+    "project_id": "ginotv-ac3e4",
+    "storage_bucket": "ginotv-ac3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631346394790:android:39702ef3ad6e11ce",
+        "android_client_info": {
+          "package_name": "com.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631346394790-4dp3umvs3jjcso17t8iv5ndbnfdnlhd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12tN79ePpC4068YrYGj-NOH4nF42xh_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631346394790-vg1285tjqq7dlmgcreq1bimaq9a5vc73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
